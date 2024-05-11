@@ -1,13 +1,13 @@
 {
-    "ClientID": "",
-    "LargeImage": "", 
-    "LargeImageText": "",
+    "ClientID": "1219624638628233247",
+    "LargeImage": "https://cdn.discordapp.com/attachments/1219627413831553034/1238723756441206874/595a359a972f5e33d56f9e5ccaaec3cb.gif?ex=664052e5&is=663f0165&hm=0f92a0d562249693281ace1fc5c2f08d5ac6945635779679f1fa39991d88ed1c&", 
+    "LargeImageText": "Playing Solo leveling Arise",
     "SmallImage": "",
     "SmallImageText": "",
-    "Button1": "",
-    "Url1": "",
-    "Button2": "",
-    "Url2": "",
+    "Button1": "INSTA",
+    "Url1": "https://www.instagram.com/yuta.xae?igsh=MTVzenNodGt3MmE5cw==",
+    "Button2": "DISCORD SERVER",
+    "Url2": "https://discord.com/invite/yM7kxvRbrZ",
     "State": "",
     "Details": ""
 }
